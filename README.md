@@ -1,5 +1,7 @@
+<img src="https://raw.githubusercontent.com/RetailDAO/Docs/refs/heads/main/branding/logos/RD_logo_Ex_ver_Color_chipotle_variant.png" alt="Retail_DAO_logo" width="300">
+
 # Community
-This repository centralizes resources for FinancialFreedomDAO's community engagement, education, and collaboration.
+This repository centralizes resources for Retail DAO's community engagement, education, and collaboration.
 
 ## Structure
 - **education**: Guides and tutorials on investing and DAO participation.
